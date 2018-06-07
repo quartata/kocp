@@ -1,0 +1,9 @@
+{
+    "stv": 0,
+    "docroot": "asdf",
+
+    "bots": {
+        "Helios": ["TFBot"],
+        "Heavystep": ["TFBot"]
+    }
+}
